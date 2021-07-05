@@ -1,0 +1,13 @@
+C:\Users\malhi\source\repos\shipping quote for a package\bin\Debug\netcoreapp3.1\shipping quote for a package.exe
+C:\Users\malhi\source\repos\shipping quote for a package\bin\Debug\netcoreapp3.1\shipping quote for a package.deps.json
+C:\Users\malhi\source\repos\shipping quote for a package\bin\Debug\netcoreapp3.1\shipping quote for a package.runtimeconfig.json
+C:\Users\malhi\source\repos\shipping quote for a package\bin\Debug\netcoreapp3.1\shipping quote for a package.runtimeconfig.dev.json
+C:\Users\malhi\source\repos\shipping quote for a package\bin\Debug\netcoreapp3.1\shipping quote for a package.dll
+C:\Users\malhi\source\repos\shipping quote for a package\bin\Debug\netcoreapp3.1\shipping quote for a package.pdb
+C:\Users\malhi\source\repos\shipping quote for a package\obj\Debug\netcoreapp3.1\shipping quote for a package.csproj.AssemblyReference.cache
+C:\Users\malhi\source\repos\shipping quote for a package\obj\Debug\netcoreapp3.1\shipping quote for a package.AssemblyInfoInputs.cache
+C:\Users\malhi\source\repos\shipping quote for a package\obj\Debug\netcoreapp3.1\shipping quote for a package.AssemblyInfo.cs
+C:\Users\malhi\source\repos\shipping quote for a package\obj\Debug\netcoreapp3.1\shipping quote for a package.csproj.CoreCompileInputs.cache
+C:\Users\malhi\source\repos\shipping quote for a package\obj\Debug\netcoreapp3.1\shipping quote for a package.dll
+C:\Users\malhi\source\repos\shipping quote for a package\obj\Debug\netcoreapp3.1\shipping quote for a package.pdb
+C:\Users\malhi\source\repos\shipping quote for a package\obj\Debug\netcoreapp3.1\shipping quote for a package.genruntimeconfig.cache
